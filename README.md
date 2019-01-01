@@ -1,0 +1,2 @@
+# ReadFirst
+GLCR Lengendary Guide
